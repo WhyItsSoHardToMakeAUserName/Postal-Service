@@ -1,0 +1,64 @@
+22.10.2024 20:31:35: gogogog
+22.10.2024 20:41:12: Order Id:11 --- District: Weight:45 TimeOfDelivery:22.10.2024 18:50:38
+22.10.2024 20:41:12: Order Id:1 --- District: Weight:25,262468 TimeOfDelivery:22.10.2024 18:55:38
+22.10.2024 20:41:12: Order Id:2 --- District: Weight:46,599564 TimeOfDelivery:22.10.2024 19:00:38
+22.10.2024 20:41:12: Order Id:3 --- District: Weight:28,870934 TimeOfDelivery:22.10.2024 19:05:38
+22.10.2024 20:41:12: Order Id:4 --- District: Weight:21,195965 TimeOfDelivery:22.10.2024 19:10:38
+22.10.2024 20:41:12: Order Id:5 --- District: Weight:10,342488 TimeOfDelivery:22.10.2024 19:15:38
+22.10.2024 20:42:21: Order Id:11 --- District: Weight:45 TimeOfDelivery:22.10.2024 18:50:38
+22.10.2024 20:42:21: Order Id:1 --- District: Weight:25,262468 TimeOfDelivery:22.10.2024 18:55:38
+22.10.2024 20:42:21: Order Id:2 --- District: Weight:46,599564 TimeOfDelivery:22.10.2024 19:00:38
+22.10.2024 20:42:21: Order Id:3 --- District: Weight:28,870934 TimeOfDelivery:22.10.2024 19:05:38
+22.10.2024 20:42:21: Order Id:4 --- District: Weight:21,195965 TimeOfDelivery:22.10.2024 19:10:38
+22.10.2024 20:42:21: Order Id:5 --- District: Weight:10,342488 TimeOfDelivery:22.10.2024 19:15:38
+22.10.2024 20:44:11: список IP-адресов из файла журнала, входящих в указанный диапазон с количеством обращений с этого адреса в указанный интервал времени.
+22.10.2024 20:44:11: Order Id:11 --- District: Weight:45 TimeOfDelivery:22.10.2024 18:50:38
+22.10.2024 20:44:11: Order Id:1 --- District: Weight:25,262468 TimeOfDelivery:22.10.2024 18:55:38
+22.10.2024 20:44:11: Order Id:2 --- District: Weight:46,599564 TimeOfDelivery:22.10.2024 19:00:38
+22.10.2024 20:44:11: Order Id:3 --- District: Weight:28,870934 TimeOfDelivery:22.10.2024 19:05:38
+22.10.2024 20:44:11: Order Id:4 --- District: Weight:21,195965 TimeOfDelivery:22.10.2024 19:10:38
+22.10.2024 20:44:11: Order Id:5 --- District: Weight:10,342488 TimeOfDelivery:22.10.2024 19:15:38
+22.10.2024 21:56:49: Invalid District
+22.10.2024 22:01:34: Invalid District
+22.10.2024 22:02:59: Invalid District
+22.10.2024 22:04:29: Invalid District
+22.10.2024 22:06:22: Invalid District
+22.10.2024 22:15:59: Validation completed successfully
+22.10.2024 22:15:59: список IP-адресов из файла журнала, входящих в указанный диапазон с количеством обращений с этого адреса в указанный интервал времени.
+22.10.2024 22:15:59: Order Id:11 --- District:PostalService.models.District Weight:45 TimeOfDelivery:22.10.2024 18:50:38
+22.10.2024 22:15:59: Order Id:1 --- District:PostalService.models.District Weight:25,262468 TimeOfDelivery:22.10.2024 18:55:38
+22.10.2024 22:15:59: Order Id:2 --- District:PostalService.models.District Weight:46,599564 TimeOfDelivery:22.10.2024 19:00:38
+22.10.2024 22:15:59: Order Id:3 --- District:PostalService.models.District Weight:28,870934 TimeOfDelivery:22.10.2024 19:05:38
+22.10.2024 22:15:59: Order Id:4 --- District:PostalService.models.District Weight:21,195965 TimeOfDelivery:22.10.2024 19:10:38
+22.10.2024 22:15:59: Order Id:5 --- District:PostalService.models.District Weight:10,342488 TimeOfDelivery:22.10.2024 19:15:38
+22.10.2024 22:16:08: Invalid District
+22.10.2024 22:19:23: Invalid District
+22.10.2024 22:36:29: Validation completed successfully
+22.10.2024 22:36:29: список IP-адресов из файла журнала, входящих в указанный диапазон с количеством обращений с этого адреса в указанный интервал времени.
+22.10.2024 22:36:29: Order Id:11 --- District:PostalService.models.District Weight:45 TimeOfDelivery:22.10.2024 18:50:38
+22.10.2024 22:36:29: Order Id:1 --- District:PostalService.models.District Weight:25,262468 TimeOfDelivery:22.10.2024 18:55:38
+22.10.2024 22:36:29: Order Id:2 --- District:PostalService.models.District Weight:46,599564 TimeOfDelivery:22.10.2024 19:00:38
+22.10.2024 22:36:29: Order Id:3 --- District:PostalService.models.District Weight:28,870934 TimeOfDelivery:22.10.2024 19:05:38
+22.10.2024 22:36:29: Order Id:4 --- District:PostalService.models.District Weight:21,195965 TimeOfDelivery:22.10.2024 19:10:38
+22.10.2024 22:36:29: Order Id:5 --- District:PostalService.models.District Weight:10,342488 TimeOfDelivery:22.10.2024 19:15:38
+22.10.2024 22:53:27: Validation completed successfully
+22.10.2024 22:53:27: список IP-адресов из файла журнала, входящих в указанный диапазон с количеством обращений с этого адреса в указанный интервал времени.
+22.10.2024 22:53:27: Order Id:7 --- District:PostalService.models.District Weight:18,5 TimeOffDelivery:22.10.2024 23:07:50
+22.10.2024 22:53:27: Order Id:49 --- District:PostalService.models.District Weight:13,6 TimeOffDelivery:22.10.2024 23:17:50
+22.10.2024 22:53:27: Order Id:15 --- District:PostalService.models.District Weight:23,8 TimeOffDelivery:22.10.2024 23:21:50
+22.10.2024 22:53:27: Order Id:5 --- District:PostalService.models.District Weight:12,7 TimeOffDelivery:22.10.2024 23:22:50
+22.10.2024 22:53:27: Order Id:29 --- District:PostalService.models.District Weight:12,5 TimeOffDelivery:22.10.2024 23:24:50
+22.10.2024 22:53:27: Order Id:20 --- District:PostalService.models.District Weight:26,6 TimeOffDelivery:22.10.2024 23:28:50
+22.10.2024 22:53:27: Order Id:34 --- District:PostalService.models.District Weight:15,9 TimeOffDelivery:22.10.2024 23:31:50
+22.10.2024 22:53:27: Order Id:44 --- District:PostalService.models.District Weight:20,6 TimeOffDelivery:22.10.2024 23:32:50
+22.10.2024 22:53:27: previous dilevery order cleaned
+22.10.2024 22:53:28: delivery order updated
+22.10.2024 22:54:05: Invalid District
+22.10.2024 22:54:21: Validation completed successfully
+22.10.2024 22:54:21: список IP-адресов из файла журнала, входящих в указанный диапазон с количеством обращений с этого адреса в указанный интервал времени.
+22.10.2024 22:54:21: Order Id:32 --- District:PostalService.models.District Weight:13,2 TimeOffDelivery:22.10.2024 23:10:50
+22.10.2024 22:54:21: Order Id:37 --- District:PostalService.models.District Weight:17,5 TimeOffDelivery:22.10.2024 23:16:50
+22.10.2024 22:54:21: previous dilevery order cleaned
+22.10.2024 22:54:21: delivery order updated
+22.10.2024 23:09:27: Invalid District
+22.10.2024 23:09:50: Invalid District
